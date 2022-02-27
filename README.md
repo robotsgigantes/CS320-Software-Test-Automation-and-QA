@@ -1,1 +1,9 @@
 # CS320-Software-Test-Automation-and-QA
+How can I ensure that my code, program, or software is functional and secure?
+The best way to ensure that you are writing functional and secure code is to account for all possibilities in use cases, including user error. This also includes making sure that your software is free from bugs and logic issues to prevent backdoor access from cyber attacks. Encryption, logging, access control, and authentication are a few ways to ensure your code is as secure as possible.
+
+How do I interpret user needs and incorporate them into a program?
+Interpreting user needs is the most important part of a project, and the key reason one is hired for that project. The way I interpret them is by listing each part out individually, and breaking them out further if necessary. For example, if a client wants a name field for user input that can't exceed twenty characters or be empty then you need to be able to satisfy two pieces of criteria: the input can't exceed twenty characters, and the input can't be null. Once all criterion are broken down this way it becomes easier to view what needs to be done, how to code the project, and gives the ability to make sure that all criteria are met.
+
+How do I approach designing software?
+The way I approach designing software is a combination of my two previous answers. I start by looking at requirements and breaking them out. Next I figure out what should go together in packages versus what could be standalone. The next step is to actually start writing code, and keeping an eye out for logic errors and potential bugs. When the code is finished, now that I know about them, I can create unit tests for areas that can be tested with automation or problem areas I want to assess before QA delivery. I find this way to be the easiest, and somewhat quickest, way to design software as it allows for you to deliver functional and secure code.
